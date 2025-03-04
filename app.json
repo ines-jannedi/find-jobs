@@ -5,6 +5,12 @@
       "expo-router"
     ],
     "name": "React_native_jobs",
-    "slug": "React_native_jobs"
+    "slug": "React_native_jobs",
+    "android": {
+      "package": "com.anonymous.React_native_jobs"
+    },
+    "experimental": {
+      "newArchEnabled": true
+    }
   }
 }
